@@ -1,0 +1,4 @@
+## References and other useful resources
+
+
+1. https://tilde.town/~kzimmermann/articles/living_in_linux_terminal.html
